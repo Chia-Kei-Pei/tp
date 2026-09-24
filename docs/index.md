@@ -1,17 +1,19 @@
 ---
 layout: page
-title: AddressBook Level 3
+title: ByLine
 ---
 
 [![CI Status](https://github.com/se-edu/addressbook-level3/workflows/Java%20CI/badge.svg)](https://github.com/se-edu/addressbook-level3/actions)
 [![codecov](https://codecov.io/gh/se-edu/addressbook-level3/branch/master/graph/badge.svg)](https://codecov.io/gh/se-edu/addressbook-level3)
 
-![Ui](images/Ui.png)
+![Ui](images/UI_Mockup_v1_cropped.jpg)
 
-**AddressBook is a desktop application for managing your contact details.** While it has a GUI, most of the user interactions happen using a CLI (Command Line Interface).
+**ByLine is a desktop application for journalists who have many valuable contacts to keep track of. They may not have close ties with all of their contacts.**
 
-* If you are interested in using AddressBook, head over to the [_Quick Start_ section of the **User Guide**](UserGuide.html#quick-start).
-* If you are interested in developing AddressBook, the [**Developer Guide**](DeveloperGuide.html) is a good place to start.
+While it has a GUI, most of the user interactions happen using a CLI (Command Line Interface).
+
+* If you are interested in using ByLine, head over to the [_Quick Start_ section of the **User Guide**](UserGuide.html#quick-start).
+* If you are interested in developing ByLine, the [**Developer Guide**](DeveloperGuide.html) is a good place to start.
 
 
 **Acknowledgements**
